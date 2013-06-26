@@ -7,6 +7,7 @@ gem 'rails', '3.2.13'
 
 gem 'sqlite3'
 gem 'sunspot_rails'
+gem 'paperclip', '~> 3.0'
 
 group :test do
   gem 'rspec-rails'
